@@ -1,0 +1,8 @@
+[package]
+name = "Sudokurez"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nalgebra = "*" # replace * by the latest version of the crate.
+
